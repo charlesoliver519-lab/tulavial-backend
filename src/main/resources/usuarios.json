@@ -1,5 +1,5 @@
 [
   { "id": 1, "usuario": "ciudadano", "password": "1234",     "rol": "CIUDADANO",     "nombre": "Juan Pérez" },
   { "id": 2, "usuario": "admin",     "password": "admin123", "rol": "ADMINISTRADOR", "nombre": "Obras Públicas Tulancingo" },
-  { "id": 3, "usuario": "supervisor","password": "super123", "rol": "SUPERVISOR",    "nombre": "Cuadrilla Huapalcalco" }
+  { "id": 3, "usuario": "supervisor","password": "supervisor", "rol": "SUPERVISOR",    "nombre": "Cuadrilla Huapalcalco" }
 ]
